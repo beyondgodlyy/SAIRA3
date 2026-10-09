@@ -1,0 +1,13 @@
+<svg width="1600" height="1200" viewBox="0 0 1600 1200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8F1D2C"/>
+      <stop offset="100%" stop-color="#6E1622"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1200" fill="url(#g)"/>
+  <circle cx="800" cy="600" r="280" fill="none" stroke="#C7A567" stroke-width="2" opacity="0.5"/>
+  <path d="M 620 520 Q 800 720 980 520" fill="none" stroke="#DCC28E" stroke-width="4"/>
+  <circle cx="800" cy="740" r="30" fill="none" stroke="#DCC28E" stroke-width="4"/>
+  <text x="800" y="1080" text-anchor="middle" font-family="serif" font-size="46" fill="#F7F3ED" letter-spacing="10">SAIRA</text>
+</svg>

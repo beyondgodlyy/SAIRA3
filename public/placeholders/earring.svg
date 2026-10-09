@@ -1,0 +1,10 @@
+<svg width="800" height="1000" viewBox="0 0 800 1000" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="1000" fill="#F7F3ED"/>
+  <circle cx="330" cy="420" r="10" fill="#8F1D2C"/>
+  <path d="M330 430 Q330 500 330 540" stroke="#C7A567" stroke-width="3" fill="none"/>
+  <circle cx="330" cy="565" r="28" fill="none" stroke="#C7A567" stroke-width="3"/>
+  <circle cx="470" cy="420" r="10" fill="#8F1D2C"/>
+  <path d="M470 430 Q470 500 470 540" stroke="#C7A567" stroke-width="3" fill="none"/>
+  <circle cx="470" cy="565" r="28" fill="none" stroke="#C7A567" stroke-width="3"/>
+  <text x="400" y="900" text-anchor="middle" font-family="serif" font-size="22" fill="#77716B" letter-spacing="4">SAIRA</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg width="800" height="1000" viewBox="0 0 800 1000" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="1000" fill="#F7F3ED"/>
+  <circle cx="400" cy="560" r="120" fill="none" stroke="#C7A567" stroke-width="10"/>
+  <polygon points="400,400 430,440 400,470 370,440" fill="#8F1D2C"/>
+  <text x="400" y="900" text-anchor="middle" font-family="serif" font-size="22" fill="#77716B" letter-spacing="4">SAIRA</text>
+</svg>
