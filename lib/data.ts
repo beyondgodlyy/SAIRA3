@@ -82,7 +82,13 @@ export async function getProducts(
   return (data ?? []).map(sortImages);
 }
 
-export async function getProductBySlug(slug: string): Promise<Product | null> {
+export async function getProductBySlug(rawSlug: string): Promise<Product | null> {
+  let slug = rawSlug;
+  try {
+    slug = decodeURIComponent(rawSlug);
+  } catch {
+    // اگر دیکد ممکن نبود، همان مقدار اصلی استفاده می‌شود
+  }
   const supabase = createServerSupabase();
   const { data, error } = await supabase
     .from("products")
